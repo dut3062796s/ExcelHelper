@@ -1,0 +1,13 @@
+E:\wky2015\C#\ExcelHelper\Operating\bin\Debug\Operating.dll
+E:\wky2015\C#\ExcelHelper\Operating\bin\Debug\Operating.pdb
+E:\wky2015\C#\ExcelHelper\Operating\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\wky2015\C#\ExcelHelper\Operating\bin\Debug\NPOI.dll
+E:\wky2015\C#\ExcelHelper\Operating\bin\Debug\NPOI.OOXML.dll
+E:\wky2015\C#\ExcelHelper\Operating\bin\Debug\NPOI.OpenXml4Net.dll
+E:\wky2015\C#\ExcelHelper\Operating\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\wky2015\C#\ExcelHelper\Operating\bin\Debug\NPOI.xml
+E:\wky2015\C#\ExcelHelper\Operating\bin\Debug\NPOI.OOXML.xml
+E:\wky2015\C#\ExcelHelper\Operating\bin\Debug\NPOI.OpenXml4Net.xml
+E:\wky2015\C#\ExcelHelper\Operating\obj\Debug\Operating.csprojResolveAssemblyReference.cache
+E:\wky2015\C#\ExcelHelper\Operating\obj\Debug\Operating.dll
+E:\wky2015\C#\ExcelHelper\Operating\obj\Debug\Operating.pdb

@@ -1,0 +1,15 @@
+E:\wky2015\C#\ExcelHelper\UnitTestProject\bin\Debug\UnitTestProject.dll
+E:\wky2015\C#\ExcelHelper\UnitTestProject\bin\Debug\UnitTestProject.pdb
+E:\wky2015\C#\ExcelHelper\UnitTestProject\bin\Debug\Operating.dll
+E:\wky2015\C#\ExcelHelper\UnitTestProject\bin\Debug\NPOI.dll
+E:\wky2015\C#\ExcelHelper\UnitTestProject\bin\Debug\NPOI.OOXML.dll
+E:\wky2015\C#\ExcelHelper\UnitTestProject\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\wky2015\C#\ExcelHelper\UnitTestProject\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\wky2015\C#\ExcelHelper\UnitTestProject\bin\Debug\NPOI.OpenXml4Net.dll
+E:\wky2015\C#\ExcelHelper\UnitTestProject\bin\Debug\Operating.pdb
+E:\wky2015\C#\ExcelHelper\UnitTestProject\bin\Debug\NPOI.xml
+E:\wky2015\C#\ExcelHelper\UnitTestProject\bin\Debug\NPOI.OOXML.xml
+E:\wky2015\C#\ExcelHelper\UnitTestProject\bin\Debug\NPOI.OpenXml4Net.xml
+E:\wky2015\C#\ExcelHelper\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+E:\wky2015\C#\ExcelHelper\UnitTestProject\obj\Debug\UnitTestProject.dll
+E:\wky2015\C#\ExcelHelper\UnitTestProject\obj\Debug\UnitTestProject.pdb
