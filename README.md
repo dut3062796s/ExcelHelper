@@ -1,2 +1,2 @@
 # ExcelHelepr
-这是一个基于NPOI的Excel的导入到处的强类型组件
+这是一个基于NPOI的Excel的导入导出的强类型组件
